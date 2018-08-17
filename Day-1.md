@@ -52,3 +52,7 @@ Day 1
 
 * 왜 Border Radious 변경이 안 되었을까?
     - Border Radious는 frame만 가능하다. [참고](https://help.framer.com/learning-framer/frames-and-shapes)
+
+* Homework
+    - Jaeho Ko 
+    https://framer.cloud/gIrkd
